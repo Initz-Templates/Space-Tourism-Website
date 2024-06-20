@@ -37,4 +37,3 @@ copy env.example .env
 
 # Install dependencies
 npm install
-*testCommit
